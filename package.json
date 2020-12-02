@@ -21,7 +21,11 @@
     "curve-tabs-bar",
     "tabs-bar",
     "react-native-reanimated",
-    "react-native-gesture-handler"
+    "react-native-gesture-handler",
+    "tabs",
+    "curved",
+    "bottom",
+    "react navigation"
   ],
   "author": "Reuven Naor <reuvenaor85@gmail.com>",
   "license": "MIT",
